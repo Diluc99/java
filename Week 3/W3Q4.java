@@ -11,7 +11,7 @@ public class W3Q4 {
             }
             System.out.printf("The sum of %d natural numbers is %d", num,sum);
         } else{
-            System.out.printf("The number %d is not a natural number");
+            System.out.printf("The number %d is not a natural number",num);
         }
     }
 }
